@@ -2,12 +2,12 @@
  
 /*criando variáveis*/
 :root { 
-    --cor-de-fundo: #4e0351; 
-    --lilas: #f1b8e7c9; 
+    --cor-de-fundo: #00065c; 
+    --lilas: #2e60cec9; 
     --branco: #FFFFFF; 
-    --botao-ativo: #6d086ae7; 
-    --botao-inativo: rgba(181, 20, 181, 0.5); 
-    --texto-fundo: rgba(226, 102, 195, 0.853);
+    --botao-ativo: #2318c0e7; 
+    --botao-inativo: rgba(21, 47, 194, 0.5); 
+    --texto-fundo: rgba(3, 170, 236, 0.853);
 }
 
 body { 
